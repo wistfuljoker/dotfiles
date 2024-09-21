@@ -8,7 +8,7 @@
 // command palette
 {
   "autosave": "on_focus_change",
-  "buffer_font_family": "RobotoMono Nerd Font",
+  "buffer_font_family": "FiraCode Nerd Font",
   "enable_language_server": true,
   "tab_size": 2,
   "ui_font_size": 16,
