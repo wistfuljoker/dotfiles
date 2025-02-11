@@ -7,6 +7,7 @@
 // custom settings, run `zed: open default settings` from the
 // command palette
 {
+  "vim_mode": true,
   "autosave": "on_focus_change",
   "buffer_font_family": "FiraCode Nerd Font",
   "enable_language_server": true,

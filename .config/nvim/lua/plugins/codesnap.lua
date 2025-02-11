@@ -15,5 +15,10 @@ return {
 		has_breadcrumbs = true,
 		bg_theme = "grape",
 		has_line_number = true,
+		bg_x_padding = 60,
+		bg_y_padding = 40,
+		bg_padding = nil,
+		atermark = "",
+		show_workspace = true,
 	},
 }
