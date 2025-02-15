@@ -1,5 +1,5 @@
 [window]
-opacity = 0.35
+opacity = 0.25
 blur = true
 decorations_theme_variant = "Dark"
 [font]
@@ -48,4 +48,4 @@ index = 17
 color = '#db4b4b'
 
 [keyboard]
-bindings = [ { key = "F11", action = "ToggleFullscreen" } ]
+bindings = [{ key = "F11", action = "ToggleFullscreen" }]

@@ -1,8 +1,7 @@
 font-family = "JetBrainsMono Nerd Font"
 
-background-opacity = 0.65
+background-opacity = 0.35
 background-blur-radius = 20
-auto-update = download
 
 keybind=f11=toggle_fullscreen
 
