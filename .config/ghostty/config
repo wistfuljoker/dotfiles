@@ -6,3 +6,5 @@ background-blur-radius = 20
 keybind=f11=toggle_fullscreen
 
 theme = tokyonight
+
+window-decoration = server
