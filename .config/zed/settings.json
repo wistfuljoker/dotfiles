@@ -7,6 +7,11 @@
 // custom settings, run `zed: open default settings` from the
 // command palette
 {
+  "icon_theme": "Material Icon Theme",
+  "telemetry": {
+    "diagnostics": true,
+    "metrics": false
+  },
   "vim_mode": true,
   "autosave": "on_focus_change",
   "buffer_font_family": "JetBrainsMono Nerd Font",
@@ -17,7 +22,7 @@
   "theme": {
     "mode": "system",
     "light": "One Light",
-    "dark": "Tokyo Night Storm"
+    "dark": "Tokyo Night"
   },
   "terminal": {
     "font_family": "JetBrainsMono Nerd Font",
