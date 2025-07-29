@@ -3,7 +3,7 @@ opacity = 0.25
 blur = true
 decorations_theme_variant = "Dark"
 [font]
-normal = { family = "CaskaydiaCove Nerd Font", style = "Regular" }
+normal = { family = "FiraCode Nerd Font", style = "Regular" }
 size = 12
 
 # TokyoNight Alacritty Colors
