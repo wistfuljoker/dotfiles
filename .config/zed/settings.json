@@ -7,7 +7,7 @@
 // custom settings, run `zed: open default settings` from the
 // command palette
 {
-  "icon_theme": "Material Icon Theme",
+  "icon_theme": "Catppuccin Mocha",
   "telemetry": {
     "diagnostics": true,
     "metrics": false
@@ -22,7 +22,7 @@
   "theme": {
     "mode": "system",
     "light": "One Light",
-    "dark": "Tokyo Night"
+    "dark": "Tokyo Night Storm"
   },
   "terminal": {
     "font_family": "FiraCode Nerd Font",
